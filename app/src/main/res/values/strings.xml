@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="error_when_getting_character">An error occurred while getting character details</string>
+</resources>
